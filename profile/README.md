@@ -14,6 +14,11 @@ Organizationへようこそ！
 [![Spell Check with Typos](https://github.com/MinecraftSurvivalServer/WebSite/actions/workflows/typos.yml/badge.svg)](https://github.com/MinecraftSurvivalServer/WebSite/actions/workflows/typos.yml)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/MinecraftSurvivalServer/WebSite/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/MinecraftSurvivalServer/WebSite/actions/workflows/jekyll-gh-pages.yml)
 
+### Minecraft Server
+**Default Branch Status** <br>
+[![CodeQL](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql)
+[![Spell Check with Typos](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml)
+
 <!--**関連リソース**  
 - [ドキュメント](ドキュメントへのリンク)  
 - [コミュニティフォーラム](フォーラムへのリンク)  -->
